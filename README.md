@@ -107,80 +107,35 @@ Custom (clean installation). For best performance, select Custom installation
 <img src="https://imgur.com/tc1YeU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
+and wait for the installtion
+
+<img src="https://imgur.com/sSoBEGl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+Customize Settings 
+- <b>Username is fixed as ADMINISTRATOR </b>
+
+- <b>Chose a Strong Password and Renter, then Finish </b>
 
 
-
-
-
-<img src="https://imgur.com/O8VOx8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1IeaoNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
+When prompted to Press Ctrl+Alt+Delete, go to VirtualBox's Input menu, select Keyboard, and choose Insert Ctrl+Alt+Delete. 
 
 
+- <b>Then enter your password when the login screen appears.
+ </b>
 
-
-
-
-
-
-
-
-
-
-- <b>Configure our hostname. I’ll go with the defaults. kali</b>
-
-- <b>Not going to specify a domain.</b>
-
-- <b>We need to specify a username, I’m just going to go with Kali</b>
-
-- <b>The password: Kali</b>
-
-<img src="https://imgur.com/O8VOx8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/afcI6uL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
-NOTE: The user and password were just for the project; you should not use the defaults.
-
-- <b>click continue.</b>
-- <b> I used the entire disk and then clicked continue.</b>
+This is Server Manager, the central administration console for managing all system services and server roles in Windows Server 2022. Through this interface, you can configure, monitor, and maintain the various services running on your server.
 
 
+<img src="https://imgur.com/0DvBw7X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/> 
 
-- <b> So, I’m going to finish the partitioning and write changes to disk and 
- Click continue.</b>
-
- <img src="https://imgur.com/5Eg7KIX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
-
-- <b>I’m ok with these changes being made. So, say yes and continue.</b>
-
-So the software is now being unpacked and installed.
-(Wait, it’s going to take a while to install.)
-
-<img src="https://imgur.com/1QMJ4SO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
-- <b>Install the GRUB boot loader. Click yes and continue.</b>
-
-<img src="https://imgur.com/OPzHz9q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
  
-- <b>I’m going to specify the hard drive and continue.</b>
- The installation is now being finished.
- 
- <img src="https://imgur.com/xjPb6OA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
-
-- <b>Then Reboot</b>
-<img src="https://imgur.com/nJIP48D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-Now you can use your Kali Linux on your VirtualBox on Windows 11
-<img src="https://imgur.com/jKCb6KB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
-- <b>TEST</b>
-<img src="https://imgur.com/qbifMlK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
 <!--
  ```diff
 - text in red
