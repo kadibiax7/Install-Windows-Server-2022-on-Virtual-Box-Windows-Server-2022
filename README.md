@@ -26,22 +26,10 @@ This repository provides a comprehensive step-by-step guide to install Windows S
 
 <h2>Installation walk-through:</h2>
 
-<p align="center"> First, I’m going to make sure that virtualization is enabled. You need to have this option enabled.
-  
-  To do this:
-  
-- <b>Go to the task manager</b> 
-  
-- <b>Performance</b> 
-  
-- <b>CPU</b> 
-  
-- <b>Make sure that virtualization is enabled. </b>
+<p align="center"> First, to download the Windows Server 2022 image file, visit the official Microsoft evaluation page (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) and select the ISO version that matches your requirements.<br/>
 
-NOTE: Make sure that your computer meets the minimum requirements to run Kali Linux. It depends on what you want to install, but for this example, we’re going to opt for the default desktop and the Kali Linux default packages. You need at least 2 gigs of RAM and 20 gigs of disk space. The batter.
-
- <br/>
-<img src="https://imgur.com/P41jAQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+<img src="https://imgur.com/lw6tTET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />Download VirtualBox for your operating system <br/> 
