@@ -90,6 +90,7 @@ Important Note: You’ll see four installation options:
 - <b>Datacenter Evaluation (Desktop Experience)</b>
 
 The Desktop Experience variants include a graphical interface (GUI), while the non-GUI versions run in command-line mode only. For this lab, select "Windows Server 2022 Datacenter Evaluation (Desktop Experience)" (the last option), then click Next.
+
 <img src="https://imgur.com/k3SVHET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
