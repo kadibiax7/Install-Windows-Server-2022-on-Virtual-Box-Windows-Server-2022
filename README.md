@@ -90,7 +90,7 @@ Important Note: You’ll see four installation options:
 - <b>Datacenter Evaluation (Desktop Experience)</b>
 
 The Desktop Experience variants include a graphical interface (GUI), while the non-GUI versions run in command-line mode only. For this lab, select "Windows Server 2022 Datacenter Evaluation (Desktop Experience)" (the last option), then click Next.
-<img src="https://imgur.com/BOtIigQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/k3SVHET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
 Select where you want to install the operating system 
@@ -102,10 +102,28 @@ Next, you’ll see two installation options:
 
 Upgrade (keeps files/settings from an older Windows Server OS)
 
-Custom (clean install). For best performance, select Custom installation
+Custom (clean installation). For best performance, select Custom installation
 
 <img src="https://imgur.com/tc1YeU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
+
+
+
+
+
+
+<img src="https://imgur.com/O8VOx8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -117,7 +135,7 @@ Custom (clean install). For best performance, select Custom installation
 
 - <b>The password: Kali</b>
 
-<img src="https://imgur.com/aGJnuCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/O8VOx8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
 NOTE: The user and password were just for the project; you should not use the defaults.
