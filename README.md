@@ -28,6 +28,8 @@ This repository provides a comprehensive step-by-step guide to install Windows S
 
 <p align="center"> First, to download the Windows Server 2022 image file, visit the official Microsoft evaluation page (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) and select the ISO version that matches your requirements.<br/>
 
+
+
  
 <img src="https://imgur.com/lw6tTET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
