@@ -24,6 +24,8 @@ This repository provides a comprehensive step-by-step guide to install Windows S
 
 <br />Download windows sever @ (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) <br/>
 
+<br />Download KaliLinux @ (https://www.kali.org/) <br/>
+
 <h2>Installation walk-through:</h2>
 
 First, to download the Windows Server 2022 image file, visit the official Microsoft evaluation page (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) and select the ISO version that matches your requirements 
@@ -31,34 +33,15 @@ First, to download the Windows Server 2022 image file, visit the official Micros
 <img src="https://imgur.com/lw6tTET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<br />Lunch VirtualBox. Go to a new virtual machine and create a new windows server.<br/>
 
-<br />While you are waiting, let’s install VirtualBox <br/>
+Give it a name: Let’s say Windows Server 2022 
 
-Go to where you downloaded the file and double click, and follow the prompt. 
- 
-<img src="https://imgur.com/8wRyK48.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IPLJV4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-
-
-<br />Read and accept the Terms and follow the prompt. (click next) <br/>
-
-<img src="https://imgur.com/pmX6f5p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
-<br />Lunch VirtualBox. Go to a new virtual machine and create a new Kali virtual machine.<br/>
-
-Give it a name: Let’s say Kali Linux ISO 2025 
-
-And the ISO image that I’ll select. This is the one that I downloaded, and I’ll click next.
-
-<img src="https://imgur.com/HKqlYsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
-<br /> Give it the amount of RAM that you want. (4500MB OR More) <br/>
- Number of CPUs. Let’s say 3CPUs.
+<br /> Give it the amount of RAM that you want. (4000MB OR More) <br/>
+ Number of CPUs. Let’s say 2-3CPUs.
 
 <img src="https://imgur.com/jTIdlgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />click finish.
