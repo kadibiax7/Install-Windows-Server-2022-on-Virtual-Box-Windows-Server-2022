@@ -46,27 +46,43 @@ Give it a name: Let’s say Windows Server 2022
 <img src="https://imgur.com/jTIdlgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />click finish.
 
+- <b>Now we need to go to settings.</b>
 
-<img src="https://imgur.com/p3TZ3aM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />  
+- <b>Go to storage</b>
 
-So, I’ve got the Kali virtual machine running off the image that I downloaded.
+- <b>Click on this empty and choose this small disk you can</b>
+
+- <b>Choose disk file.</b>
+
+- <b>Select the ISO file windows server 2022 and click on open</b>
+
+<img src="https://imgur.com/pp9ej0E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />  
+
+So, I’ve got the Windows Server machine running off the image that I downloaded.
 
 
 <br /> Now, start your ISO image to start the configuration.
 
-- <b>Select the graphical install.</b> <br/>
-
-<img src="https://imgur.com/Ko1SESk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
-
 - <b>My language is English.</b>
 
-<img src="https://imgur.com/O4pMx1s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- <b>Specify your Time format.</b>
+
+- <b>Select that keyboard and Click next</b>
+
+<img src="https://imgur.com/SzYwTSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
-- <b>Specify your location.</b>
+- <b>Click inatall Now.</b>
 
-- <b>I’ll select that keyboard</b>
+<img src="https://imgur.com/J9guLmI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+
+
+
+
+
+- <b>Select the graphical install.</b> <br/>
 
 - <b>Configure our hostname. I’ll go with the defaults. kali</b>
 
