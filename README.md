@@ -9,6 +9,7 @@ This repository provides a comprehensive step-by-step guide to install Windows S
 <h2>What's Included?</h2>
 
 ✔️ VirtualBox optimization for server workloads.
+
 ✔️ Windows Server 2022 installation walkthrough. <br />
 
 <h2>Environments Used </h2>
