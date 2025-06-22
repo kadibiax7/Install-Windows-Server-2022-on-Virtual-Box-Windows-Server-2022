@@ -26,29 +26,9 @@ This repository provides a comprehensive step-by-step guide to install Windows S
 
 <h2>Installation walk-through:</h2>
 
-<p align="center"> First, to download the Windows Server 2022 image file, visit the official Microsoft evaluation page (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) and select the ISO version that matches your requirements.<br/>
+First, to download the Windows Server 2022 image file, visit the official Microsoft evaluation page (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) and select the ISO version that matches your requirements 
 
-
-
- 
 <img src="https://imgur.com/lw6tTET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-<br />Download VirtualBox for your operating system <br/> 
-
-If there’s a later release when you watch this video, then download that release of VirtualBox for your operating system. 
-
-Download VirtualBox @ (https://virtualbox.org) 
-
-<img src="https://imgur.com/i490LbA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
-<br />Download KaliLinux @ (https://www.kali.org/) <br/>
-
-Since we want to show how to configure it, we will download the installer kit 
-
-<img src="https://imgur.com/qA02WXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
