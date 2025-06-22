@@ -4,14 +4,12 @@
  ### [YouTube Demonstration](https://youtu.be/Z-F_v1k)
 
 <h2>Description</h2>
-This repository provides a step-by-step guide and necessary configurations to install VirtualBox and set up Kali Linux Home as a virtual machine on Windows 11.
-Whether you're a cybersecurity enthusiast, developer, or learner, this guide helps you quickly get Kali Linux running on your Windows 11 system.
+This repository provides a comprehensive step-by-step guide to install Windows Server 2022 as a virtual machine using Oracle VirtualBox. Designed for IT professionals, students, and homelab enthusiasts, this walkthrough covers everything from VirtualBox setup to post-installation configurations for Windows Server 2022.
 
 <h2>What's Included?</h2>
 
-✔️Windows Server Installation – Download and setup instructions.
-
-<br />
+✔️ VirtualBox optimization for server workloads.
+✔️ Windows Server 2022 installation walkthrough. <br />
 
 <h2>Environments Used </h2>
 
