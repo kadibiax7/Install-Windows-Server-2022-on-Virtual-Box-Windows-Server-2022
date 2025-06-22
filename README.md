@@ -77,12 +77,28 @@ So, I’ve got the Windows Server machine running off the image that I downloade
 <img src="https://imgur.com/J9guLmI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
+ <b>Select the Operating system.</b> <br/>
+
+Important Note: You’ll see four installation options:
+
+- <b>Standard Evaluation</b>
+
+- <b>Standard Evaluation (Desktop Experience)</b>
+
+- <b>Datacenter Evaluation</b>
+
+- <b>Datacenter Evaluation (Desktop Experience)</b>
+
+The Desktop Experience variants include a graphical interface (GUI), while the non-GUI versions run in command-line mode only. For this lab, select "Windows Server 2022 Datacenter Evaluation (Desktop Experience)" (the last option), then click Next and accept the terms by checking the box.
+
+<img src="https://imgur.com/BOtIigQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 
 
 
 
 
-- <b>Select the graphical install.</b> <br/>
+
 
 - <b>Configure our hostname. I’ll go with the defaults. kali</b>
 
@@ -92,8 +108,7 @@ So, I’ve got the Windows Server machine running off the image that I downloade
 
 - <b>The password: Kali</b>
 
-<img src="https://imgur.com/YOFGPu6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
+
 NOTE: The user and password were just for the project; you should not use the defaults.
 
 - <b>click continue.</b>
